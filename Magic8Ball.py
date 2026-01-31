@@ -1,7 +1,8 @@
 #Magic8Ball.py
-#Name:
-#Date:
-#Assignment:
+#Name: Rinku Mahato
+#Date: 01/31/2026
+#Assignment: Lab2 
+#Purpose: ask user for their question and response receives randomly from created list. 
 
 #We will need random for this program, import to use this package.
 import random
